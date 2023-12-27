@@ -1,0 +1,7 @@
+{
+  "name": "opencv-base-image",
+  "version": "1.0.0",
+  "dependencies": {
+    "@u4/opencv4nodejs": "6.5.2"
+  }
+}
